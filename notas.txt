@@ -1,0 +1,141 @@
+Desarrollo de una Plataforma de gestión académica, para 
+mejorar los procesos administrativos y de enseñanza en la 
+I.E.P Sagrado Corazón de Jesús en el distrito de 
+Ambo – Huánuco, 2020
+
+Los sistemas educativos en la actualidad se 
+desarrollan con la participación tanto física
+del educando así como del educador. Es por eso
+que la comunicación eficiente y continua de 
+ambos participantes del proceso educativo, se
+vuelve la finalidad principal para garantizar
+el logro de los objetivos en la educación.
+Dado que los últimos acontecimientos mundiales
+por motivo de la pandemia del COVID 19, 
+que han afectado de manera crítica la forma en
+que se cumple con la normal educación de los 
+niños y jóvenes en edad escolar e incluso en
+la educación superior, no sólo
+en el Perú, sino también en todo el mundo, ha
+llevado a la necesidad de intensificar el uso 
+masivo de las tecnología de información y 
+comunicación dentro de la educación y que los
+jóvenes puedan seguir en su proceso educativo,
+sin que se vea afectado de manera crítica el
+camino a la formación integral.
+Bajo estas circunstancias se propone para el
+
+
+
+
+IMPLEMENTACIÓN DE UN SOFTWARE EDUCATIVO BASADO EN REALIDAD AUMENTADA PARA EL CURSO DE PLATAFORMAS TECNOLÓGICAS EN LA ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS DE LA UNIVERSIDAD SEÑOR DE SIPÁN
+
+En la realización de este trabajo se encontró algunas limitaciones orientadas a la implementación de aplicaciones Android basadas en Realidad aumentada. 
+
+La implementación de este software, significó realizar un estudio previo con el fin de comprender los conceptos de la Realidad Aumentada, los componentes necesarios a nivel de hardware y de software que conforman las aplicaciones de Realidad Aumentada.
+Se compararon las distintas herramientas de Realidad Aumentada, así como los procesos empleados por Realidad Aumentada y su integración en plataformas móviles desde los diferentes puntos de vista ampliamente tratados en el estudio comparativo de las diversas plataformas de Realidad Aumentada.
+En lo que respecta a la construcción del sistema se tuvo que integrar distintas herramientas, ya que el motor de Realidad Aumentada por sí solo no es capaz de generar gráficos o animaciones. 
+
+
+La arquitectura RISC es la adecuada para el desarrollo de aplicaciones basadas en Realidad Aumentada, llegando así a ser combinadas con Software libre mediante la plataforma Android, útil para la difusión y desarrollo de software educativo.
+
+Los requerimientos fundamentales empleados en la aplicación en base a la utilización de Realidad Aumentada es el sistema operativo Android, el cual fue elegido por mayor demanda que existe en la utilización de equipos móviles de los alumnos. La metodología de desarrollo utilizada es el modelo XP ya que es la de mejor desempeño al momento de elaborar aplicaciones con Realidad aumentada.
+
+Las fuentes de monitoreo como Google Developer Console el cual permite monitorear los eventos relacionado a crashing y Google Analytics donde también se rastrea eventos asociados de la codificación, la validación de su ejecución establecido previamente en el código del proyecto a través del API y de la definición del ID UA57345916-1 manifiestan resultados óptimos para su publicación en Play store.
+
+El Costo total de la aplicación es de S/.1, 375 soles.
+
+/**********************************************************************************************************/
+
+
+IMPLEMENTACIÓN DE UN SOFTWARE EDUCATIVO BASADO EN EL MODELO LEARNING BY DOING PARA MEJORAR EL RENDIMIENTO ACADÉMICO DE LA ASIGNATURA DE MATEMÁTICA EN ALUMNOS DE TERCER GRADO DE EDUCACIÓN PRIMARIA DE LA I.E. 10132 JESÚS DIVINO MAESTRO
+
+
+En la presente tesis, se plantea el problema de cómo fortalecer la competencia de resolución de problemas matemáticos de cantidad en alumnos de tercer grado de educación primaria; formulando la hipótesis de que la implementación de un software educativo basado en el modelo Learning By Doing permitirá mejorar la problemática presentada.
+
+Por tal razón, el objetivo principal fue fortalecer la competencia de resolución de problemas matemáticos de cantidad en alumnos de tercer grado de educación primaria mediante la implementación de un software educativo basado en el modelo Learning By Doing, así como incrementar el porcentaje de alumnos que actúa y piensa matemáticamente en situaciones de cantidad, incrementar el porcentaje de alumnos que traduce cantidades a expresiones numéricas correctamente, aumentar el porcentaje de alumnos que comunica su comprensión sobre los números y las operaciones apropiadamente, acrecentar el porcentaje de alumnos que usa estrategias y procedimientos de estimación y cálculo adecuadamente e incrementar el porcentaje de alumnos que argumenta afirmaciones sobre relaciones numéricas y las operaciones.
+
+1. En cuanto a incrementar el porcentaje de alumnos que traduce cantidades a expresiones numéricas correctamente, se obtuvieron resultados favorables, donde en el pre test se obtuvo un 46,67% de alumnos que logra esta capacidad, y al aplicar el software educativo se obtiene un 66,67%.
+
+2. Con respecto a aumentar el porcentaje de alumnos que comunica su comprensión sobre los números y las operaciones apropiadamente, se obtuvo una mejoría, ya que en el pre test se ha tenido como resultado que sólo el 40,00% de alumnos logra resolver ejercicios en esta capacidad, sin embargo al aplicar el software obtenemos un 73,33%.
+
+3. Usando el software educativo se logró acrecentar el porcentaje de alumnos que usa estrategias y procedimientos de estimación y cálculo adecuadamente, obteniendo como resultados que en el pre test sólo el 33,33% cumplía mientras que al aplicar el software educativo se ve una mejora, teniendo como resultado un 60%.
+
+4. Por otro lado, se logró incrementar el porcentaje de alumnos que argumenta afirmaciones sobre las relaciones numéricas y las operaciones, teniendo como resultados que en el desarrollo del pre test se obtuvo sólo un 20% con la capacidad de cumplir, sin embargo, al aplicar el software educativo, se obtiene como resultado un 53,33%.
+
+/***************************************************************************************************************/
+
+Automatización del Sistema de Matrículas de la institución Grupo Educativa con una Aplicación Web
+Arequipa - Perú
+2017
+Bachilleres:
+Darwin Bruno Quispe Cutipa
+Horry Yhonatan Cabana Quispe
+Carlos Alberto Pauca Ramos
+
+Facultad de Ingeniería de Sistemas y Electrónica - Ingeniería de Sistemas e Informática
+
+
+
+se presenta una aplicación web que automatiza el proceso de matrículas, registro de pagos, asistencias y actividades académicas de la institución  "Grupo Educativa", el cual llega a convertirse en un aliado eficaz para la administración de la información en lo que respecta básicamente a matrículas, registro de pagos por concepto tanto de matrícula como de pensiones, generación de fichas de matrícula, registro y reporte de asistencias de los alumnos, gestión de recuperación de clases de los alumnos, registro de temas académicos, reportes dinámicos con la opcionalidad de ser exportados en formato Excel y/o PDF, dando así al personal una experiencia satisfactoria en el uso de este sistema web desarrollado en lenguaje JAVA con motor de base de datos MySQL y a la entidad educativa un mejor panorama mejorando su imagen corporativa frente a diferentes entidades educativas.
+
+Se migró la información de la Institución de forma satisfactoria la cual se encuentra almacenada en una base de datos MySQL así mismo se hace uso de ella en la aplicación web implementada.
+
+Se implementó el módulo de matrículas planteado el cual además permite emitir un reporte ficha de inscripción digital el cual remplaza a la ficha física de inscripción con la que contaba la institución educativa.
+
+Se implementó el módulo de registro de pagos el cual permite gestionar descuentos y deudas respecto a las matrículas y pensiones.
+
+Se Implementó el Modulo de actividades el cual permite gestionar las asistencias de los alumnos y las recuperaciones de las mismas.
+
+Asimismo, el aplicativo permite registrar temas académicos de las clases a dictar que se programan para cada nivel.
+
+Se implementó un control de accesos en forma de roles para cada trabajador que acceda a la aplicación web.
+
+El aplicativo permite generar reportes dinámicos con filtros de búsqueda información útil y relevante para los usuarios que pueda contar con la funcionalidad de exportarlos en archivos tanto en formato Excel como en formato PDF.
+
+El aplicativo cuenta con una interfaz gráfica agradable la cual permite al usuario interactuar con el aplicativo de manera intuitiva.
+
+Gracias a los esfuerzos y tiempo invertidos en el desarrollo de la solución se logró implementar los requerimientos que el usuario nos hizo saber, no obstante, la solución esta para ser complementada con nuevos módulos y/o requerimientos a petición de los usuarios, por ejemplo, se nos solicitó implementar un módulo de inscripciones online.
+
+Económicamente el proyecto fue viable ya que las herramientas empleadas para el desarrollo fueron de software libre en su totalidad sin embargo para el despliegue de la aplicación web en producción es necesario adquirir un hosting.
+
+Finalmente mencionar que este proyecto se encuentra en constante optimización, mejora y desarrollo de nuevos requerimientos puesto que el aplicativo se encuentra en producción real y los usuarios demandan más funcionalidades, asimismo se está ofreciendo el soporte correspondiente a la institución.
+
+
+/*************************************************************************************************************/
+
+ANÁLISIS, DESARROLLO E IMPLEMENTACIÓN DE UN SISTEMA DE GESTIÓN ACADÉMICA. CASO DE ESTUDIO: ENGLISH CENTER – MENTE VELOZ
+Diego Gerardo Pancho Males
+2020 - Quito
+
+se basa en el desarrollo de una aplicación web para la automatización de los procesos administrativos académicos del Instituto English Center – Mente Veloz con el fin de optimizar sus operaciones académicas. Mediante el desarrollo de este sistema, se pretende administrar los procedimientos responsables del manejo de la información respecto a los estudiantes, de manera fácil, eficiente y segura. Este sistema concederá la obtención de un mayor crecimiento institucional y un mayor desarrollo basado en tecnologías de alto nivel comprometido al mejoramiento de sus procesos.
+
+El proceso de ingeniería RUP, hoy en día no es un proceso tan conveniente para desarrollo de sistemas de información de manera ágil. La guía que se obtiene para el desarrollo de un proyecto a través del modelado que promueve este proceso, puede ser útil, sin embargo, no es lo más conveniente por el tiempo que se pierde al momento de desarrollar la documentación. Cabe recalcar que en este proyecto se decidió realizar la mayor documentación posible para representar el funcionamiento del sistema con el afán de cumplir los objetivos académicos de este proyecto.
+
+Respecto a la herramienta de desarrollo, podemos concluir que, en la actualidad existen herramientas que facilitan el desarrollo de un software, optimizando el tiempo de realización del mismo. Hay un sin número de frameworks que dan una mayor facilidad para el desarrollo de proyectos de sistemas computacionales. Una de esta es sin duda React Js, ya que permite una alta escalabilidad, modularidad y flexibilidad ante posibles cambios futuros, manteniendo altos estándares de calidad a través herramientas complementarias sofisticadas que benefician en el mantenimiento para un correcto funcionamiento de un sistema.
+
+El método utilizado, llamado Método en Cascada Modificado o también llamado Sinergy se debe mencionar que fue de gran ayuda para el entendimiento a la hora de desarrollar el código de la aplicación pese al gran tiempo dedicado al diseño del sistema, ya que, en posteriores etapas, hubo pocas tendencias a los cambios, siendo este un punto a favor al momento de ser aplicado de manera correcta, tomando en cuenta cada detalle.
+
+Definitivamente, hay que recalcar la gran importancia de la obtención y racionalización de los procesos administrativos académicos ya que, esta información fue la base para las etapas posteriores del proyecto, ya que son la guía más importante para llegar a un profundo entendimiento del problema, su análisis y el diseño de la solución a la cual se llegó.
+
+A través de este trabajo de disertación, se pudo definir hacia donde está enfocada la ingeniería de sistemas computacionales la cual es, solucionar los problemas en distintas industrias a través de un software que administre de manera correcta la información.
+
+También se pudo identificar el verdadero procedimiento que debe tener un ingeniero para la realización de soluciones tecnológicas a través de distintas etapas. Una de las más importantes es el diseño, ya que, sin este trascendental paso, la escritura del código para el software no llega a tener una relevancia considerable.
+
+
+/*************************************************************************************************************/
+
+HTML5
+
+Al utilizar un lenguaje estructurado, como es HTML 5, se ha de tener una estructura básica para la creación de la página web, al igual que otros lenguajes estructurados se ha de cumplir con un etiquetado inicial que determina como está compuesta la página.
+
+Estructura básica de una página en HTML5
+
+Si se observa el código fuente de una página Web básica, se pueden distinguir tres partes bien diferenciadas, un ejemplo de una página básica en HTML 5 sería el siguiente:
+
+
+
+Como se puede observar en primer lugar se encuentra la definición del tipo de documento, el cual se especifica con la etiqueta <!DOCTYPE , seguidamente se encuentra
+la etiqueta <html> que especifica el principio y fin del documento HTML, entre las etiquetas de principio y fin del documento se ubican las etiquetas correspondientes al encabezado y cuerpo del documento cuyas etiquetas correspondientes son <head> y <body>. A continuación se explica con detalle cada uno de estos
+apartados.
+Básicamente se puede decir que un documento web realizado con el lenguaje de marcas o etiquetas HTML5, tiene dos secciones principales, el encabezado y el cuerpo del documento.
