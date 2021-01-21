@@ -129,13 +129,84 @@ HTML5
 
 Al utilizar un lenguaje estructurado, como es HTML 5, se ha de tener una estructura básica para la creación de la página web, al igual que otros lenguajes estructurados se ha de cumplir con un etiquetado inicial que determina como está compuesta la página.
 
+
+{Al utilizar un lenguaje estructurado como HTML 5, debe tener la estructura básica utilizada para crear una página web y, al igual que otros lenguajes estructurados, debe adherirse a las etiquetas iniciales que determinan cómo se compone la página.}
+
 Estructura básica de una página en HTML5
 
 Si se observa el código fuente de una página Web básica, se pueden distinguir tres partes bien diferenciadas, un ejemplo de una página básica en HTML 5 sería el siguiente:
 
+{Si observa el código fuente de una página web básica, puede distinguir tres partes completamente diferentes. Un ejemplo de una página básica en HTML 5 es el siguiente:}
 
 
 Como se puede observar en primer lugar se encuentra la definición del tipo de documento, el cual se especifica con la etiqueta <!DOCTYPE , seguidamente se encuentra
 la etiqueta <html> que especifica el principio y fin del documento HTML, entre las etiquetas de principio y fin del documento se ubican las etiquetas correspondientes al encabezado y cuerpo del documento cuyas etiquetas correspondientes son <head> y <body>. A continuación se explica con detalle cada uno de estos
 apartados.
 Básicamente se puede decir que un documento web realizado con el lenguaje de marcas o etiquetas HTML5, tiene dos secciones principales, el encabezado y el cuerpo del documento.
+
+{Se puede ver que lo primero es usar la definición del tipo de documento especificado por la etiqueta <!DOCTYPE, y luego la etiqueta <html> que especifican el principio y el final del documento HTML. Entre el principio y el final del documento se encuentran las etiquetas correspondientes al encabezado y cuerpo del documento. Las etiquetas correspondientes son <head> y <body>. La siguiente es una descripción detallada de cada sección.}
+
+HTML5 genera mejores hábitos de codificación. La separación de código de
+presentación y de estructura es más adecuada en el desarrollo de programación
+actual, además de obligar a usar un código más consistente al no ser tan permisivo.
+En el momento de escribir estas líneas, Google Chrome 12, Microsoft Internet
+Explorer 9, Firefox 5, Opera 11 y Apple Safari 5 dicen soportar HTML5, pero en
+realidad soportan muchas características comunes del estándar, pero otras son
+soportadas por un navegador y por otro no. Hay algunas técnicas para detectar el
+soporte HTML5 de un navegador, pero son tan vertiginosas las mejoras en los
+navegadores para HTML5 que hacen extremadamente difícil mantener la pista de lo
+que está pasando, actualizaciones o nuevas versiones de los navegadores están
+disponibles todo el tiempo. Por esta razón el autor ha hecho una página para
+ayudarle a ver qué elementos HTML5 son soportados por su navegador. 
+
+{HTML5 ha producido que se tengan mejores hábitos de codificación. Separación de código entre la representación y la estructura son más adecuadas para el desarrollo de la programación. Actualmente, además de ser menos indulgente y forzar el uso de código más consistente. En el momento de redactar esta investigación, Google Chrome, Microsoft Edge, Firefox, Opera y Safari de Apple afirman ser compatibles con HTML5, pero en realidad, es compatible con muchas características comunes del estándar, pero otras características son compatibles con un navegador pero no con el otro. Existen algunas técnicas para detectar El navegador es compatible con HTML5, pero en los navegadores HTML5 son muy difíciles de rastrear lo que sucede, la actualización del navegador o la nueva versión está siempre disponible.}
+
+
+JavaScript es actualmente una tecnología vital en lo que al desarrollo de aplicaciones modernas para la Web se refiere. Todos los navegadores se han estado esforzando en dar un mejor soporte y rendimiento para JavaScript, adicionalmente otros grupos han creado extensiones muy interesantes para esta tecnología.
+
+{Al desarrollar aplicaciones modernas para la Web, JavaScript es una tecnología vital en la actualidad. Todos los navegadores están trabajando arduamente para brindar un mejor soporte y rendimiento para JavaScript, y otros grupos también han creado extensiones muy interesantes para esta tecnología.}
+
+Todos los desarrolladores Web hoy en día estarán de acuerdo con las anteriores afirmaciones, pero lo que hace a JavaScript aún más importante es que está acompañando en su evolución a HTML5, lo que hace de la Web ya no sólo un asunto de alojar páginas para después mostrarlas, sino la convierte en una verdadera plataforma de desarrollo para aplicaciones.
+
+{Hoy en día, todos los desarrolladores web están de acuerdo con la afirmación anterior, pero lo que hace que JavaScript sea aún más importante es que va acompañado del desarrollo de HTML5, lo que hace que la web ya no sea solo una cuestión de alojar páginas para su uso posterior. Muéstrelos, pero conviértalo en una verdadera plataforma de desarrollo de aplicaciones.}
+
+Javascript es un lenguaje de los denominados lenguajes de scripting. Los scripts (script se traduce como guión literalmente) son archivos de órdenes, programas por lo general simples. Es por esto que no podemos definir Javascript como un lenguaje de programación en un sentido estricto, pero sin embargo si nos permite crear páginas dinámicas, con algunos efectos realmente interesantes y que mejoren considerablemente su aspecto. Nos permite tener cierta interacción con el usuario de nuestras páginas, reconocer determinados eventos que se puedan producir y responder a éstos adecuadamente. Podemos, por ejemplo, añadir elementos con movimiento que recuerdan a las animaciones Flash. Incluso podemos crear algunos programas más complejos que manejen estructuras de datos.
+
+Tratándose de un lenguaje de scriptl, los progamas que realicemos, no necesitarán ser compilado. Los lenguajes de scripting son lenguajes interpretados. Esto en la práctica significa que cuando trabajemos con Javascript escribiremos nuestro programa y podremos ejecutarlo de forma directa, sin necesidad de hacer nada más.
+
+/****************************************************/
+
+PHP
+
+PHP es una sigla, un acrónimo de “PHP: Hypertext Preprocessor”, o sea, "Pre-procesador de Hipertexto marca PHP". El hecho de que sea un "pre" procesador es lo que marca la diferencia entre el proceso que sufren las páginas Web programadas en PHP del de aquellas páginas Web comunes, escritas sólo en lenguaje HTML.
+Dominar el lenguaje PHP amplía nuestros horizontes profesionales como diseñadores o programadores, y nos convierte en creadores de Aplicaciones Web. Nos lleva de la mano a un mundo de comercio electrónico, redes sociales, intranets, portales de noticias y entreteniminentos, un mundo "mágico" en el que podemos acceder gratuitamente a miles de sistemas completos prearmados, listos para usar.
+
+PHP nos despega de nuestros antiguos competidores (diseñadores gráficos o programadores de aplicaciones de escritorio) y nos lleva a un nuevo mercado, en el que ofrecemos soluciones web a comercios, empresas de diversos tamaños, profesionales, instituciones educativas, medios de difusión.
+
+/*****************************************************************/
+
+MYSQL
+
+MySQL es un sistema para la administración de bases de datos relacionales (RDBMS) rápido y sólido. Las bases de datos permiten almacenar, buscar, ordenar y recuperar datos de forma eficiente. El servidor de MySQL controla el acceso a los datos para garantizar el uso simultáneo de varios usuarios, para proporcionar acceso a dichos datos y para asegurarse de que sólo obtienen acceso a ellos los usuarios con autorización. Por lo tanto, MySQL es un servidor multiusuario y de subprocesamiento múltiple. Utiliza SQL (Structured Query Languaje, lenguaje de consulta estructurado), el lenguaje estándar para la consulta de bases de datos utilizado en todo el mundo. MySQL lleva disponible desde 1996 pero su nacimiento se remonta a 1979. Ha obtenido el galardón Choice Award del Linux Journal Readers en varias ocasiones.
+MySQL se distribuye bajo un sistema de licencias dual. Puede utilizarlo bajo una licencia de código abierto (GPL), que es gratuita mientras cumpla las condiciones de la misma. Si desea distribuir una aplicación que no sea GPL y que incluya MySQL, puede adquirir una licencia comercial.
+
+Algunas de las ventajas de MySQL
+Entre los competidores principales de MySQL, se puede citar a PostgreSQL, Microsoft SQL Server y Oracle. MySQL cuenta con muchas ventajas entre las que se encuentran las descritas a continuación.
+
+Rendimiento
+MySQL es muy rápido. Si lo desa, puede consultar los indicadores comparativos de sus desarrolladores en el sitio web oficial del sistema de gestión de bases de datos. Estos indicadores revelan en muchos casos una diferencia de velocidad abismal con respecto a los productos de la competencia.
+
+Bajo coste
+MySQL está disponible de manera gratuita, bajo una licencia de código abierto, o por un precio reducido en forma de licencia comercial. Necesitará una licencia si desea redistribuir MySQL como parte de una aplicación y no quiere emplear una licencia de código abierto en la misma. Si no tiene pensado distribuir su aplicación o trabaja en software gratuito, no es necesario que adquiera una licencia.
+
+Facilidad de uso
+Las bases de datos más modernas utilizan SQL. Si ha utilizado otros RDBMS, no debería tener problemas para adaptarse a este sistema. MySQL resulta además más sencillo de configurar que otros productos similares.
+
+Portabilidad
+MySQL se puede utilizar en una gran cantidad de sistemas Unix diferentes así como bajo Microsoft Windows.
+
+Código fuente
+Como en el caso de PHP, puede obtener y modificar el código fuente de MySQL. En la mayoría de los casos no es un aspecto importante para los usuarios pero es aconsejable ya que garantiza la continuidad en el futuro y le proporciona diferentes opciones en caso de emergencia.
+
+Disponibilidad de asistencia técnica
+No todos los productos de código abierto cuentan con una empresa principal que ofrezaca asistencia técnica, asesoramiento y certificación, aunque puede obtener todas las ventajas de MySQL AB. 
